@@ -1,0 +1,23 @@
+{
+  "name": "cc_bot_discord_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonioMG19/cc_bot_discord_javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonioMG19/cc_bot_discord_javascript/issues"
+  },
+  "homepage": "https://github.com/TonioMG19/cc_bot_discord_javascript#readme",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "pm2": "^4.3.1"
+  }
+}
